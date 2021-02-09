@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "bake.oven.size",
+    "type": "java.lang.String",
+    "description": "A description for 'bake.oven.size'"
+  },
+  {
+    "name": "bake.oven.pizza.time",
+    "type": "java.lang.String",
+    "description": "A description for 'bake.oven.pizza.time'"
+  }
+]}
