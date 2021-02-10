@@ -43,7 +43,7 @@ public class ClientController {
 	@Autowired
 	private RestTemplate restTemplate;
 
-	@RequestMapping("/")
+	@RequestMapping({"/","/home"})
 	public String home(ModelMap model) {
 		return "index";
 	}
